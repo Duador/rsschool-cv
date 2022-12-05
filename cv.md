@@ -5,7 +5,7 @@
 ## I'm 22 years old and i want study.
 ## i don't have any skills
 ## example of code -
-'function multiply(a, b){return a * b}'
+`function multiply(a, b){return a * b}`
 ## i don't have expirience of working in this sphere
 ## I'm a lowyer
 ## I studied English at school and while studying at the university
